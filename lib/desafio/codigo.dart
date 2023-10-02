@@ -42,6 +42,8 @@ void main() {
   print('----------------');
   filtrarPessoasPorSexo(pessoasFiltradas, 'Feminino').forEach(print);
   print('----------------');
+  print('');
+
   //! 3 - Filtrar e deixar a lista somente com pessoas maiores de 18 anos e apresente essas pessoas pelo nome
   print('----------------');
   print('Pessoas maiores que 18 anos ordenados pela idade');
